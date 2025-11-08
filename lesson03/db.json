@@ -1,0 +1,29 @@
+{
+  "users":[],
+  "events": [
+    {
+      "id": 1,
+      "name": "Project Alpha",
+      "type": "upcoming",
+      "note": "Initial phase of the research project.",
+      "dateStart": "2025-04-01",
+      "category": "workshop"
+    },
+    {
+      "id": 2,
+      "name": "Marketing Plan",
+      "type": "ongoing",
+      "note": "Detailed marketing plan for Q2.",
+      "dateStart": "2025-04-10",
+      "category": "seminar"
+    },
+    {
+      "id": 3,
+      "name": "UI Redesign",
+      "type": "ended",
+      "note": "Redesigning the dashboard UI for better UX.",
+      "dateStart": "2025-04-15",
+      "category": "movie"
+    }
+  ]
+}
