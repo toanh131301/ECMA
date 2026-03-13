@@ -1,0 +1,81 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Học React Router",
+      "description": "Tìm hiểu cách sử dụng Router trong React",
+      "status": true,
+      "createdAt": "2026-03-13"
+    },
+    {
+      "id": 2,
+      "title": "Làm bài tập React",
+      "description": "Tạo Todo List App",
+      "status": true,
+      "createdAt": "2026-03-12"
+    },
+    {
+      "id": 3,
+      "title": "Học useState",
+      "description": "Hiểu cách quản lý state trong React",
+      "status": false,
+      "createdAt": "2026-03-11"
+    },
+    {
+      "id": 4,
+      "title": "Học useEffect",
+      "description": "Hiểu lifecycle trong React",
+      "status": false,
+      "createdAt": "2026-03-10"
+    },
+    {
+      "id": 5,
+      "title": "Làm giao diện Todo",
+      "description": "Thiết kế UI cho Todo List",
+      "status": true,
+      "createdAt": "2026-03-09"
+    },
+    {
+      "id": 6,
+      "title": "Tìm hiểu Axios",
+      "description": "Gọi API bằng axios",
+      "status": false,
+      "createdAt": "2026-03-08"
+    },
+    {
+      "id": 7,
+      "title": "Học React Hook Form",
+      "description": "Tạo form thêm và sửa task",
+      "status": true,
+      "createdAt": "2026-03-07"
+    },
+    {
+      "id": 8,
+      "title": "Làm chức năng sửa task",
+      "description": "Update task bằng PUT API",
+      "status": false,
+      "createdAt": "2026-03-06"
+    },
+    {
+      "id": 9,
+      "title": "Làm chức năng xóa task",
+      "description": "Delete task từ danh sách",
+      "status": true,
+      "createdAt": "2026-03-05"
+    },
+    {
+      "id": 10,
+      "title": "Hoàn thiện Todo App",
+      "description": "Test toàn bộ chức năng",
+      "status": false,
+      "createdAt": "2026-03-04"
+    }
+  ],
+  "users": [
+    {
+      "email": "toanh131301@gmail.com",
+      "password": "$2a$10$Sfp4JuLxsV7TFZMtdFXJquAeTid/KLjDC.0TlVX/MNpzK8nyHlJuC",
+      "id": 1
+    }
+  ]
+}
